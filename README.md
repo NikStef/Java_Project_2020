@@ -12,4 +12,7 @@ It offers features like:
 * Shopping Cart: Add and remove items.
 * Checkout: Process orders and calculate totals.
 * User Management: Create and manage user accounts.
-* The application leverages core Java concepts, including object-oriented programming and data structures.
+
+
+The application leverages core Java concepts, including object-oriented programming and data structures.
+
